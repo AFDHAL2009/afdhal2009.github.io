@@ -13,7 +13,7 @@ function Banner() {
     <h1 className="lmj-banner-title">{  title}</h1>
     </div>
     <CareScale name="bouha"/>
-  {isSpring?(<div>c'est le printemps</div>):(<div>non</div>)}
+  {isSpring?(<div>c'est le printemps1</div>):(<div>non</div>)}
     </div>)
 }
 
