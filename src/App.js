@@ -10,8 +10,6 @@ function App() {
     <div style={{width:"50%",float:"left", backgroundColor:"green",borderColor:"white",borderSize:2}}><Cart/></div>
     <div ><ShoppingList/></div>
     </div>
-
-
     </div>  )
 }
 
